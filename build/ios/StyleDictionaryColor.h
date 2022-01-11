@@ -4,20 +4,63 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 16 Dec 2021 18:06:29 GMT
+// Generated on Tue, 11 Jan 2022 15:19:01 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorColorsMultipleFills0,
-ColorColorsMultipleFills1,
-ColorColorsSingleBlue,
-ColorColorsRefBlue,
-ColorColorsSpecialCharacters,
-ColorColorsSpecialCharactersNderung,
-ColorLightBackground,
-ColorDarkBackground
+ColorBlack,
+ColorWhite,
+ColorPrimary5,
+ColorPrimary10,
+ColorPrimary20,
+ColorPrimary30,
+ColorPrimary40,
+ColorPrimary50,
+ColorPrimary60,
+ColorPrimary70,
+ColorPrimary80,
+ColorPrimary90,
+ColorPrimary100,
+ColorSecondary5,
+ColorSecondary10,
+ColorSecondary20,
+ColorSecondary30,
+ColorSecondary40,
+ColorSecondary50,
+ColorSecondary60,
+ColorSecondary70,
+ColorSecondary80,
+ColorSecondary90,
+ColorSecondary95,
+ColorNeutral5,
+ColorNeutral10,
+ColorNeutral20,
+ColorNeutral30,
+ColorNeutral40,
+ColorNeutral50,
+ColorNeutral60,
+ColorNeutral70,
+ColorNeutral80,
+ColorNeutral90,
+ColorNeutral100,
+ColorCritical10,
+ColorCritical50,
+ColorCritical60,
+ColorCritical80,
+ColorWarning10,
+ColorWarning50,
+ColorWarning60,
+ColorWarning80,
+ColorSuccess10,
+ColorSuccess50,
+ColorSuccess60,
+ColorSuccess80,
+ColorInfo10,
+ColorInfo50,
+ColorInfo60,
+ColorInfo80
 };
 
 @interface StyleDictionaryColor : NSObject
