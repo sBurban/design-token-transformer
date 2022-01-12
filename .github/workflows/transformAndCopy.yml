@@ -62,7 +62,7 @@ jobs:
         dst_path: /build/
         dst_owner: sburban
         dst_repo_name: saved-design-tokens
-        dst_branch: master
+        dst_branch: figma
         src_branch: main
         #username: nutsbot
         #email: andr3.storhaug+bot@gmail.com
